@@ -1,5 +1,6 @@
 # 💫 About Me:
-My name is Ragul and I'm a frontend developer👨‍💻 with a focus on web fundamentals. I work at Epsilon to deliver the quality deliverables.
+Hey There!!
+This is Ragul and I'm a frontend developer👨‍💻 with a focus on web fundamentals. I work at Epsilon to deliver the quality deliverables.
 
 
 ## 🌐 Socials:
