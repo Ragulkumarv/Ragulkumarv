@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey There!!
 This is Ragul and I'm a frontend developer👨‍💻 with a focus on web fundamentals. I work at Epsilon to deliver the quality deliverables.
-Frontend Developer with 6 years of experience in building high-performance web applications using JavaScript, React, Redux, GraphQL, HTML, CSS, Next.js and TailwindCSS. Adept at optimizing UI components, integrating APIs, and ensuring cross-browser compatibility. Passionate about writing clean, scalable code and improving user experience through performance optimization. Experienced in CI/CD pipelines, API integrations, and Agile methodologies. Recently expanded expertise in Generative AI (GenAI) tools to accelerate UI prototyping, generate documentation, and assist in development workflows.![image](https://github.com/user-attachments/assets/1a3ae75a-6936-4413-bc9c-ca4de7b87815)
+Frontend Developer with 6 years of experience in building high-performance web applications using JavaScript, React, Redux, GraphQL, HTML, CSS, Next.js and TailwindCSS. Adept at optimizing UI components, integrating APIs, and ensuring cross-browser compatibility. Passionate about writing clean, scalable code and improving user experience through performance optimization. Experienced in CI/CD pipelines, API integrations, and Agile methodologies. Recently expanded expertise in Generative AI (GenAI) tools to accelerate UI prototyping, generate documentation, and assist in development workflows.
 
 
 
