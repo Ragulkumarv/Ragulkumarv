@@ -17,6 +17,7 @@ I'm a Frontend Developer with 6+ years of experience crafting high-performance w
 🔄 Leverage CI/CD pipelines, Git, and Agile practices for efficient delivery
 
 🌱 Recently Exploring
+
 🤖 Generative AI (GenAI) tools to:
 
 Accelerate UI prototyping
@@ -26,6 +27,7 @@ Automate documentation
 Assist in dev workflows with smart code suggestions
 
 💡 Beliefs
+
 Clean, scalable code = better collaboration & maintainability
 
 User experience is as important as technical performance
