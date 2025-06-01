@@ -3,6 +3,7 @@
 I'm a Frontend Developer with 6+ years of experience crafting high-performance web applications. Currently, I work at Epsilon, where I focus on delivering quality-driven, scalable frontend solutions.
 
 💼 What I Do
+
 🚀 Build performant UIs with JavaScript, React, Next.js, and TailwindCSS
 
 🔁 State management using Redux and seamless data handling with GraphQL
